@@ -90,8 +90,8 @@ Project documentation
 
 # The analysis process
 
-    This is an iterative roadmap undertaken to ensure the accuracy of results and a comprehensive analysis. For this project, I am using 
-    Microsoft Power BI.
+This is an iterative roadmap undertaken to ensure the accuracy of results and a comprehensive analysis. For this project, I am using 
+Microsoft Power BI.
 
 # Data importation
 
