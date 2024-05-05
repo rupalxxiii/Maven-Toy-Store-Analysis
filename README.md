@@ -78,17 +78,17 @@ Stock_On_Hand - Stock quantity of the product in the store
 
 # Skills demonstrated
 
-# Tool used: Microsoft Power BI. The following skills and concepts were applied through out this project:
+Tool used: Microsoft Power BI. The following skills and concepts were applied through out this project:
 
-# Data cleaning and transformation in Power Query
+Data cleaning and transformation in Power Query
 
-# Data modeling
+Data modeling
 
-# Data Analysis Expressions (DAX) codes
+Data Analysis Expressions (DAX) codes
 
-# Data visualization
+Data visualization
 
-# Project documentation
+Project documentation
 
 # The analysis process
 
