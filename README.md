@@ -123,26 +123,6 @@ Data modeling is crucial in Power BI analysis because it structures and organize
 # Data Preparation:
 Given the nature of the information provided, it is beneficial to place it into a MySQL database. The data has been separated into multiple tables that can be linked to each other based on identical fields. Queries provide for quick and easy manipulation of data and access to useful database insights. The usage of a database also guarantees a level of data integrity based on the enforced data types within our tables. Establishing constraints such as primary and foreign keys also allows us to avoid incorrect values and duplicated data which gives us confidence that the data we are using is accurate.
 
-# Data Model
-MavenToys Database Schema Repository in MySQL
-
-The following trends and patterns were observed:
-
-The month of December generated the most revenue. The month being a festive season brings with it lots of occasions and celebrations, including Christmas and Boxing Day, among others.
-There was a noticeable dip in the month of August for both years. This can be attributed to the season when parents are more focused on back-to-school supplies and preparations for their kids. This month, parents prioritize purchasing school supplies, clothing, and other essentials over toys during this period.
-For both years, January was off to a slow start, though not as low as that of August. This can be attributed to post-holiday lulls and budget constraints as consumers become more budget conscious and recover from holiday expenses, thereby leading to reduced spending on non-essential items, in this case toys.
-Between April and June, there is an almost steady revenue generation rate. This is so because these months coincide with spring and early summer in many regions. During this time, people often engage in outdoor activities, leading to an increased demand for outdoor toys and recreational products. Also, many schools have spring breaks during these months, leading to increased family activities and potential purchases of toys for entertainment during the break.
-I also observed that in 2017, after the August dip, sales steadily began climbing in the ember month until the end of the year.
-Recommendations
-
-Based on the patterns observed above, I would recommend the following to the Maven Toys management team:
-
-An expansion into educational toy categories, for example - jigsaw puzzles, building blocks, STEM kits, coding toys, etc. This would encourage parents to invest in these toy categories to help their kids development, especially during the school year.
-Collection of data on consumers in order to analyze customer spending habits and consumer behavior, customer lifetime value (CLV), churn and retention rate
-A feedback form should be sent regularly on a month-by-month basis to keep track of customers preferences as the months pass by.
-What is our market penetration? That is, how many stores and cities are we currently in?
-
-2017 till date Maven Toys has a total of 50 stores spread across 29 cities.
 
 # Market penetration
 
